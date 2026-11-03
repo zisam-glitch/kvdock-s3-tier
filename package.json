@@ -1,0 +1,10 @@
+{
+  "name": "kvdock-s3-tier",
+  "version": "1.0.0",
+  "description": "S3/R2 multi-tier blob storage and caching template with kvdock",
+  "type": "module",
+  "dependencies": {
+    "kvdock": "^0.3.0"
+  },
+  "license": "MIT"
+}
